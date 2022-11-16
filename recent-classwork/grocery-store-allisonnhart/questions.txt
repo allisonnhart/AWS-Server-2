@@ -1,0 +1,37 @@
+
+How do I work on specific functions not mentioned in the ticket tutorial?
+
+How do I tie all of my back end/front end files together without messing everything up?
+
+Should I get the backends done first or should I get the backend/associated front end done first?
+
+How closely do I follow the ticket tutorial? Half the time I try to follow it directly it either doesn't address all the parts of the lab or I
+mess something up. 
+
+My git repository isn't working with this project; would I be able to fix this and save it to my classroom repository?
+
+My classroom repository isn't showing up in my overall repositories in Github? What do I do? Do I make a backup repository, download all of the code
+I've worked on so far, and paste that into the backup repository? What happens then when I need to turn in my classroom repository link for the canvas submission?
+
+
+I don't know what to do and I am overwhelmed looking at everything; what do I do?
+
+
+
+
+
+
+
+
+Okay, so I looked at how to try and change the name and I am genuinely kind of stuck
+on what I need to do. When I try and remove parts of the cart function in Product.js,
+it freaks out and won't display any of my cart additions. I also tried changing the 
+variable name a few different ways and it didn't fix anything. I noticed in my server.js
+file that, when dealing with products, the name 'product' was used in the server.js file
+as well as when returning the name/price of the product. I noticed that in the server.js section,
+when dealing with my cart, I had made a variable named ItemInCart. I'm not sure if that has to do
+with anything, but I tried changing variable names to that and it didn't help either.
+Part of the problem might also be that, in my CartItem.js file, I tried calling some of the 
+product.js functions and it said they didn't exist/weren't a global variable or something.
+I added the import product.js stuff to the top of the file and restarted everything, but it
+kept giving me the same error. I'm not sure what to do? Any help would be incredibly appreciated.
